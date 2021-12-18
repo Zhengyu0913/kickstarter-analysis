@@ -1,2 +1,0 @@
-# kickstarter-analysis
-to do
