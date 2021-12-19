@@ -7,11 +7,11 @@ Analyze a dataset consisting of 4000 crowdfunding projects to discover hidden tr
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+I noticed the data in the launched date and deadline columns are not easy to read. They contain Unix timestamps, which measure time as the number of seconds since midnight of January 1, 1970. So I use this formula =(((J2/60)/60)/24)+DATE(1970,1,1) to convert it into a day/month/year format that we can easily read. And then use year() function to extract year for the following pivot table.
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
-
+I was confused about the countifs function when making the outcomes based on goals sheet. After searching some documents about it online, I finally mastered this countifs function in Excel
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
