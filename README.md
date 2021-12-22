@@ -1,9 +1,9 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Analyze a dataset consisting of 4000 crowdfunding projects to discover hidden trends.
-### Purpose
 
+### Purpose
+Analyze a dataset consisting of 4000 crowdfunding projects to discover hidden trends.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
